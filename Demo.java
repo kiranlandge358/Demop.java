@@ -17,7 +17,7 @@ public class Demo {
 	{
 		System.out.println(str+" is not palindrom");
 	}
-	
+	System.out.println(str+"is constant");
 
 	}
 
